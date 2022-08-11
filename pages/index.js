@@ -72,7 +72,7 @@ export default function Home() {
 
       {/* made by section */}
       <p className="text-center mt-3 text-muted fst-italic">
-        made by Chayanin Suatap 12345679
+        made by Wuttipat Sanchai 640610668
       </p>
     </div>
   );
